@@ -1,4 +1,11 @@
-import pynput
+try:
+    import pynput
+except:
+    import os
+    os.system('pip3 install pynput')
+    
+    import pynput
+    
 from time import sleep
 
 click = False
