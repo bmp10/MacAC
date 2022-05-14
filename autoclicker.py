@@ -1,6 +1,5 @@
 import pynput
 from time import sleep
-from random import randrange
 
 click = False
 
