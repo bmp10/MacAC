@@ -1,1 +1,1 @@
-cd Downloads && pip install pynput && python3 Fun/autoclicker.py
+cd Downloads && pip install pynput && python3 autoclicker.py
